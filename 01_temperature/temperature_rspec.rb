@@ -14,7 +14,7 @@
 #
 #    1.0 / 2.0 => 0.5
 #
-
+#
 require "temperature"
 
 describe "temperature conversion functions" do
@@ -65,4 +65,5 @@ describe "temperature conversion functions" do
   end
 
 end
+
 #this line of code has nothing to do
