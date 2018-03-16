@@ -119,5 +119,4 @@ describe "#factorial" do
       factorial(10).should == 3628800
   end
 end
-
 # end of file
